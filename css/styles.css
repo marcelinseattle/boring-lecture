@@ -1,0 +1,16 @@
+h2.intro{
+  font-size: 30px;
+  color: red;
+  background-color: yellow;
+}
+
+p.intro {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: pink;
+}
+
+img.intro {
+  height: 200px;
+  border-radius: 50%;
+}
